@@ -130,7 +130,13 @@ label:last-child {
 
 
 /* --------- table styles below here --------- */
+th { 
+	background-color: green;
+}
 
+tr {
+	background-color: grey;
+}
 
 /* --------- unordered list styles below here --------- */
 
